@@ -21,7 +21,7 @@ namespace CallingMethods_TA
 
         public static int divideByThree(int myInt)
         {
-            return myInt / 3;
+            return myInt / 3 ;
         }
 
     }

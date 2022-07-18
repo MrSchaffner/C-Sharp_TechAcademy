@@ -1,0 +1,6 @@
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_TechAcademy\CallingMethods2_TA\CallingMethods2_TA\bin\Debug\CallingMethods2_TA.exe.config
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_TechAcademy\CallingMethods2_TA\CallingMethods2_TA\bin\Debug\CallingMethods2_TA.exe
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_TechAcademy\CallingMethods2_TA\CallingMethods2_TA\bin\Debug\CallingMethods2_TA.pdb
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_TechAcademy\CallingMethods2_TA\CallingMethods2_TA\obj\Debug\CallingMethods2_TA.csproj.CoreCompileInputs.cache
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_TechAcademy\CallingMethods2_TA\CallingMethods2_TA\obj\Debug\CallingMethods2_TA.exe
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_TechAcademy\CallingMethods2_TA\CallingMethods2_TA\obj\Debug\CallingMethods2_TA.pdb
