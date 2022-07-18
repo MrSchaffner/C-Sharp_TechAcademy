@@ -12,6 +12,7 @@ namespace CallingMethods4_TA
         {
 
             Class1 class1 = new Class1();
+            class1.subtract2(98, 123213);
             class1.subtract2(int1: 100, int2: 34);
 
             endProgram();
