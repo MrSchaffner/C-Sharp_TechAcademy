@@ -10,16 +10,21 @@ namespace CallingMethods5_TA
     {
         static void Main()
         {
-            int IntOUT; 
+            int IntOUT = 0; //output parameter
             Class1 class1 = new Class1();
 
+            //have the user enter a number:
             Console.WriteLine("enter a number to halve");
             string input = Console.ReadLine();
             int inputInt = Convert.ToInt32(input);
 
-            class1.Halve(inputInt: inputInt, out IntOUT); // input should come from out property
+            class1.Halve(inputInt: inputInt); //outputs to console
+            Console.WriteLine("Same function, overloaded, using an output parameter");
+            class1.Halve(inputInt: inputInt, out IntOUT); //uses OUT property
 
             Console.WriteLine("You don't know the half of it: {0}", IntOUT);
+            Console.WriteLine("a static function's output in a static class:");
+            StaticClass.printRandom();
 
             endProgram();
         }
