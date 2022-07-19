@@ -13,8 +13,11 @@ namespace CallingMethods6_TA
             Employee employee1 = new Employee() { FirstName = "SamPle", LastName = "Student" };
             employee1.SayName();
 
+            IQuittable quitObject = new Employee(); //
+            quitObject.Quit();
+
             endProgram();
-        }
+        }// END MAIN()
         public static void endProgram()
         {
             Console.WriteLine("================= PROGRAM OVER - Enter 'r' to Restart =================");

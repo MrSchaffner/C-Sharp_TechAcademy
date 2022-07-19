@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{90DC4F89-C702-4EE5-9698-67A5E9E98F33}</ProjectGuid>
+    <ProjectGuid>{449E0AB0-F253-4C92-9640-4C438C95F805}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CallingMethods6_TA</RootNamespace>
-    <AssemblyName>CallingMethods6_TA</AssemblyName>
+    <RootNamespace>CallingMethods7_TA</RootNamespace>
+    <AssemblyName>CallingMethods7_TA</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
-    <Compile Include="Interface1.cs" />
-    <Compile Include="IQuitta.cs" />
-    <Compile Include="IQuittable.cs" />
-    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
