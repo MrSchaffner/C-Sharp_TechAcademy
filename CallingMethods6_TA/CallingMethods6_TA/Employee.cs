@@ -16,5 +16,12 @@ namespace CallingMethods6_TA
             Console.WriteLine("I'm Fired!");
            // throw new NotImplementedException();
         }
+
+        public override void SayName()
+        {
+            base.SayName();
+            Console.WriteLine("I am an employee");
+        }
+
     }
 }

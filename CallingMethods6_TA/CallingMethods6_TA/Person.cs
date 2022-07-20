@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace CallingMethods6_TA
 {
-    class Person
+    abstract class Person
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }
 
-        public void SayName()
+        public virtual void SayName()
         {
             Console.WriteLine("My Name is {0} {1}",FirstName,LastName);
         }
