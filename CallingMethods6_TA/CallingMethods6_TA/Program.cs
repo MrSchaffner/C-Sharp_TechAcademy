@@ -10,10 +10,27 @@ namespace CallingMethods6_TA
     {
         static void Main()
         {
-            Employee employee1 = new Employee() { FirstName = "SamPle", LastName = "Student" };
+            //Add employees
+            Employee employee1 = new Employee() { FirstName = "SamPle", LastName = "Student", id=006 };
+            Employee employee2 = new Employee() { FirstName = "Sample", LastName = "Pupil", id=005 };
             employee1.SayName();
+            employee2.SayName();
 
-            IQuittable quitObject = new Employee(); //
+            //use of operator overloading
+            if (employee1 == employee2)
+            {
+                Console.WriteLine("These two appear to have the same ID");
+            } else if (employee1 != employee2) //checking that other operator functions properly, though else would suffice in this case.
+            {
+                Console.WriteLine("These two have different IDs");
+            } else
+            {
+                Console.WriteLine("THis should never run");
+            }
+
+
+            // CREATES an OBJECT AND DEMONSTRATES it can Quit
+            IQuittable quitObject = new Employee(); 
             quitObject.Quit();
 
             endProgram();
