@@ -1,0 +1,7 @@
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_TechAcademy\StructExample\StructExample\bin\Debug\StructExample.exe.config
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_TechAcademy\StructExample\StructExample\bin\Debug\StructExample.exe
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_TechAcademy\StructExample\StructExample\bin\Debug\StructExample.pdb
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_TechAcademy\StructExample\StructExample\obj\Debug\StructExample.csproj.AssemblyReference.cache
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_TechAcademy\StructExample\StructExample\obj\Debug\StructExample.csproj.CoreCompileInputs.cache
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_TechAcademy\StructExample\StructExample\obj\Debug\StructExample.exe
+C:\Users\Razer\OneDrive\GitHub\C-Sharp_TechAcademy\StructExample\StructExample\obj\Debug\StructExample.pdb

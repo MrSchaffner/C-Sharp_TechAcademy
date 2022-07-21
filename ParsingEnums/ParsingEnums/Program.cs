@@ -23,6 +23,7 @@ namespace ParsingEnums
                 Console.WriteLine("Please enter an actual day of the week. Exception: {0}", ex);
             }
 
+
             endProgram();
         }
 
